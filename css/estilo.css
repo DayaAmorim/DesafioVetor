@@ -1,0 +1,43 @@
+img.normal { 
+    float: left; 
+    height: 300px; 
+    width: 300px; 
+}
+
+img.alta { 
+    float: left; 
+    height: 420px; 
+    width: 300px; 
+}
+
+h1 { 
+    border-bottom-style: inset; 
+    color: blue;
+}
+pre { 
+    font-size: 1.2em; 
+}
+.fonteAzul { 
+    color: blue; 
+}
+.oculta { 
+    display: none; 
+}
+.exibe { 
+    display: inline; 
+}
+.italico { 
+    font-style: italic; 
+}
+
+.buttonAdicionar{
+background-color: #00ffff;
+}
+
+.buttonUrgencia{
+background-color: #d20f0fe5;
+}
+
+.buttonAtander{
+background-color: #34ce55;
+}    
